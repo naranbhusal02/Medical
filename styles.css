@@ -87,7 +87,7 @@ h1, h2 {
 
 
 .hero {
-    background-image: url('https://iili.io/ds12eaI.jpg');
+    background-image: url("https://iili.io/ds12eaI.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
